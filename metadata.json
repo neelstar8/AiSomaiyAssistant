@@ -1,0 +1,8 @@
+{
+  "name": "Somaiya Campus AI",
+  "description": "A dual-purpose RAG academic assistant and vision-enabled infrastructure reporting system for Somaiya students.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
